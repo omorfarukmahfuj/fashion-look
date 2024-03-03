@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Gilroy";
+  src: url(fonts/gilroy-light.otf);
+}
+
 * {
   margin: 0;
   padding: 0;
